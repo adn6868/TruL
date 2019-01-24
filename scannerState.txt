@@ -1,0 +1,90 @@
+Scanner state:
+ START = 0
+ DONE = 999
+ IDENTIFIER = 1
+ NUMBER = 24
+ END_OF_FILE = 25
+
+ A = 2
+ B = 3
+ E = 4
+ I = 5
+ L = 6
+ N = 7
+ O = 8
+ P = 9
+ T = 10
+ W = 11
+
+
+ SEMICOLON = 12
+ COLON = 13
+ COMMA = 14
+ OPENBRACKET = 15
+ CLOSEBRACKET = 16
+ EQUAL = 17
+ LESS = 18
+ LESSEQUAL = 34
+ NOTEQUAL = 35
+ GREATER = 19
+ GREATEREQUAL = 36
+ ADD = 20
+ SUBTRACT = 21
+ MULTIPLY = 22
+ DIVIDE = 32
+ ASSIGN = 33
+
+ AN = 40
+ AND = 41
+
+ BE = 42
+ BEG = 44
+ BEGI = 45
+ BEGIN = 46
+ BO = 43
+ BOO = 47
+ BOOL = 48
+ 
+ EL = 49
+ ELS = 50
+ ELSE = 51
+ EN = 52
+ END = 53
+ 
+ IF = 54
+ IN = 55
+ INT = 56
+ 
+ LO = 57
+ LOO = 58
+ LOOP = 59
+ 
+ NO = 60
+ NOT = 61
+ 
+ OR = 62
+ 
+ PR = 63
+ PRI = 64
+ PRO = 65
+ PRIN = 66
+ PRINT = 67
+ PROC = 68
+ PROCE = 69
+ PROCED = 70
+ PROCEDU = 71
+ PROCEDUR = 72
+ PROCEDURE = 73
+ PROG = 74
+ PROGR = 75
+ PROGRA = 76
+ PROGRAM = 77
+ 
+ TH = 78
+ THE = 79
+ THEN = 80
+ 
+ WH = 81
+ WHI = 82
+ WHIL = 83
+ WHILE = 84
